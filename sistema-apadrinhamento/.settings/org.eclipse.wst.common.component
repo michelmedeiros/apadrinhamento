@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="sistema-apadrinhamento">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="sistema-apadrinhamento"/>
+        <property name="java-output-path" value="/sistema-apadrinhamento/build/classes"/>
+    </wb-module>
+</project-modules>
